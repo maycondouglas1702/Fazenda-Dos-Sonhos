@@ -9,4 +9,4 @@ Google play
 https://play.google.com/store/apps/details?id=com.RoadGamesBRGO.Loja_de_Galinha
 
 GameJolt
-https://gamejolt.com/games/fazenda-dos-sonhos/794374
+<a src="https://gamejolt.com/games/fazenda-dos-sonhos/794374"> click aqui</a>
