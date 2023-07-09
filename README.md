@@ -6,7 +6,7 @@ prjeto de pagamento via pix no jogo
 Disponivel nas plataformas
 
 Google play
-https://play.google.com/store/apps/details?id=com.RoadGamesBRGO.Loja_de_Galinha
+<a href="https://play.google.com/store/apps/details?id=com.RoadGamesBRGO.Loja_de_Galinha">Fazenda dos Sonhos</a>
 
 GameJolt
-<a href="https://gamejolt.com/games/fazenda-dos-sonhos/794374)https://gamejolt.com/games/fazenda-dos-sonhos/794374">Exemplo</a>
+<a href="https://gamejolt.com/games/fazenda-dos-sonhos/794374">Fazenda dos Sonhos</a>
