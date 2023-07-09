@@ -9,4 +9,4 @@ Google play
 https://play.google.com/store/apps/details?id=com.RoadGamesBRGO.Loja_de_Galinha
 
 GameJolt
-<a src="https://gamejolt.com/games/fazenda-dos-sonhos/794374"> click aqui</a>
+<a href="https://gamejolt.com/games/fazenda-dos-sonhos/794374)https://gamejolt.com/games/fazenda-dos-sonhos/794374">Exemplo</a>
